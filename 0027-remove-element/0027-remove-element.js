@@ -6,11 +6,12 @@
 var removeElement = function(nums, val) {
   let i =0; 
   let c =0;
-  for(i=0;i<nums.length;i++){
+  while(i<nums.length){
     if(nums[i]!=val){
-        nums[c]=nums[i];
-        c++;
+       nums[c++] = nums[i++];
+    }else{
+       i++;
     }
-}
-return c;
+  }
+  return c;
 };
