@@ -4,7 +4,7 @@
  * @return {number}
  */
 var removeElement = function(nums, val) {
-    let i =0; 
+  let i =0; 
   let c =0;
   for(i=0;i<nums.length;i++){
     if(nums[i]!=val){
@@ -12,6 +12,5 @@ var removeElement = function(nums, val) {
         c++;
     }
 }
-console.log(nums);
 return c;
 };
