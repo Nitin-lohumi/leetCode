@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Nitin-lohumi/leetCode/tree/master/0088-merge-sorted-array) |
 | [0221-maximal-square](https://github.com/Nitin-lohumi/leetCode/tree/master/0221-maximal-square) |
 ## Dynamic Programming
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/Nitin-lohumi/leetCode/tree/master/0221-maximal-square) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Nitin-lohumi/leetCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Nitin-lohumi/leetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
