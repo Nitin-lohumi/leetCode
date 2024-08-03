@@ -7,7 +7,6 @@
  */
 var merge = function(nums1, m, nums2, n) {
         for(let i=0; i<=m; i++){
-            nums1[i] = nums1[i];
             while(nums1.length>m){
                 nums1.pop();
             }
