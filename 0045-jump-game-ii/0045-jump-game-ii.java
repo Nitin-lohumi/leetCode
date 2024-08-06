@@ -1,0 +1,18 @@
+class Solution {
+    public int jump(int[] nums) {
+       int n = nums.length;
+        int ans = 0;
+        int curr = 0;
+        int maxSteps = 0;
+		for(int i=0; i<n-1; i++){
+			maxSteps = Math.max(maxSteps, i+ nums[i]);
+			System.out.print((i+ nums[i]) + "ascsa");
+			System.out.println(maxSteps);
+			if(curr == i){
+				curr= maxSteps;
+				ans++;
+			}
+		}
+		return ans;
+    }
+}
