@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nitin-lohumi/leetCode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Nitin-lohumi/leetCode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Nitin-lohumi/leetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Nitin-lohumi/leetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nitin-lohumi/leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Nitin-lohumi/leetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Nitin-lohumi/leetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
